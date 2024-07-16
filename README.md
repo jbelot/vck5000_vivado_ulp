@@ -34,7 +34,7 @@ git clone -b 2022.2 https://github.com/nqdtan/vck5000_vivado_ulp.git
 source settings.sh
 ```
 
-3. Follow the instruction in [utils/README.md](https://github.com/nqdtan/vck5000_vivado_ulp/tree/main/utils) to get the extra files needed to build the designs.
+3. Follow the instruction in [utils/README.md](https://github.com/nqdtan/vck5000_vivado_ulp/tree/2022.2/utils) to get the extra files needed to build the designs.
 
 ## [PL-only example]
 
